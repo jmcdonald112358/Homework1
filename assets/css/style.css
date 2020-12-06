@@ -146,7 +146,7 @@ footer.content {
     text-align: center;
 }
 
-/* Added specification for 'footer' element with 'content' class */
-footer.content h2 {
+/* Added specification for 'footer' element with 'content' class, changed to h4 to maintain sequential order */
+footer.content h4 {
     font-size: 20px;
 }
