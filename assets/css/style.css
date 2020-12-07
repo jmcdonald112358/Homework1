@@ -139,7 +139,7 @@ aside.benefits div.benefit img {
 }
 
 /* Added specification for 'footer' element, changed class name to 'content' to add specificity for the footer contents */
-footer.content {
+footer.copyright-info {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -147,6 +147,6 @@ footer.content {
 }
 
 /* Added specification for 'footer' element with 'content' class, changed to h4 to maintain sequential order */
-footer.content h4 {
+footer.copyright-info h4 {
     font-size: 20px;
 }
